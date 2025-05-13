@@ -70,30 +70,30 @@ align-items: center;
 margin: 0 10em;
 }
 
-.secundario imagem {
+.secundario__imagem {
 width: 80%;
 }
 
-.container descricao {
+.container__descricao {
 padding: 2em;
 }
 
-.descricao titulo {
+.descricao__titulo {
 font-weight: 700;
 font-size: 48px;
 color: var(--branco-principal);
 margin-bottom: 0.1em;
 }
 
-descricao texto {
+.descrica__texto {
 color: var(--cinza-secundario);
 }
 
-descricao texto {
+.descricao__texto {
 color: var(--cinza-secundario);
 }
 
-.secundario botao {
+.secundario__botao {
 display:
 inline-block;
 margin-top: 1em;
